@@ -28,8 +28,12 @@
 
 <p style="color:#aaaaaa;">{{content}}</p>
 
+<p></p>
 
-
+<h4>Newer: 
+<a name="{{ site.baseurl }}{{ page.next.url }}" class="anchor" href="{{ site.baseurl }}{{ page.next.url }}"><span class="octicon octicon-link">{{page.next.title}}</span></a></h4>
+<h4>Older: 
+<a name="{{ site.baseurl }}{{ page.previous.url }}" class="anchor" href="{{ site.baseurl }}{{ page.previous.url }}"><span class="octicon octicon-link">{{page.previous.title}}</span></a></h4>
 
           <div id="disqus_thread"></div>
           <script type="text/javascript">
