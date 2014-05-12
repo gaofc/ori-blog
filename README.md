@@ -6,4 +6,4 @@ You can fork it if you like.
 
 Your comments are welcomed.
 
-Contact me via [flygfch@163.com](flygfch@163.com).
+Contact me via [flygfch@163.com](mailto:flygfch@163.com).
